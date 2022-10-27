@@ -12,15 +12,15 @@ image: https://raw.githubusercontent.com/alTRUEco/alTRU.Eco/4041bda4b9d33478e058
 
 ## Sustainability priorities
 
-We are developing a Toolkit for _**De**centralized **F**ederated **Co**llaborative **E**conomy_
+Developing **Toolkit** for **De**centralized **Fe**derated **Sh**aring **E**conomy
 
-**[The eBay of altruism](https://github.com/DeCentral-Budapest/altruist-platform-meteor)**
+**[The eBay of altruism](https://github.com/alTRUEco/alTRUE.meteor)**
 
-A Trusted _F/LOSS_ marketplace for **collaborative economy**, where individuals, communities and organizations able to share their **resources**, **services** and **needs** in a trusted way for money, in exchange for other goods and services, or like a give away, for free.
+A Trusted _F/LOSS_ **marketplace** for _Sharing Economy_, where individuals, communities, and organizations can **share their resources, services, and needs** in a trusted way for money, in exchange for other goods and services, or like a giveaway, for free.
 
-_\> We are provided with **times of abundance** which enables us to **share with others**._
+_\> We are provided with **times of abundance**, which enables us to **share with others**._
 
-###### _#permaculture #fairshare #earthcare #peoplecare #42 #369_
+###### `#alTRUEco` `#CoNetRes` `#DataPrivacy` `#PermaCulture` `#FairShare` `#EarthCare` `#PeopleCare` `#SharingEconomy` `#Cooperative` `#Disruptive` `#Development` `#Decentralized` `#Federated`
 
 ##### `.eco` community members contribute to sustainability in all kinds of ways. Our identified priorities listed below so others can discover and learn more about our work.
 
