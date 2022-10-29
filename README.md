@@ -18,7 +18,9 @@ Developing **Toolkit** for **De**centralized **Fe**derated **Sh**aring **E**cono
 
 A Trusted _F/LOSS_ **marketplace** for _Sharing Economy_, where individuals, communities, and organizations can **share their resources, services, and needs** in a trusted way for money, in exchange for other goods and services, or like a giveaway, for free.
 
-_\> We are provided with **times of abundance**, which enables us to **share with others**._
+> _We are well-provided in **times of abundance**, which enables us to **share with others**._
+> -- eapo
+
 
 ###### `#alTRUEco` `#CoNetRes` `#DataPrivacy` `#PermaCulture` `#FairShare` `#EarthCare` `#PeopleCare` `#SharingEconomy` `#Cooperative` `#Disruptive` `#Development` `#Decentralized` `#Federated`
 
